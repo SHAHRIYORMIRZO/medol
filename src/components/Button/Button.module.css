@@ -1,0 +1,14 @@
+.content__button {
+  padding: 15px 60px;
+  border: none;
+  outline: none;
+  background: linear-gradient(
+    90deg,
+    rgba(13, 76, 147, 1),
+    rgba(0, 201, 201, 1)
+  );
+  border-radius: 50px;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+}
